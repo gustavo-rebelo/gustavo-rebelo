@@ -24,8 +24,8 @@ Sou graduando do curso de Análise e Desenvolvimento de Sistemas pela Unisinos e
 </div>
 
 ## Projetos em destaque
-- [Valorant Agent Finder] ([https://github.com/gustavo-rebelo/Valorant])
-- [Página Web/Portifólio]([link_do_projeto](https://github.com/gustavo-rebelo/Portifolio-Gustavo
+- [Valorant Agent Finder] - https://github.com/gustavo-rebelo/Valorant
+- [Página Web/Portifólio] - https://github.com/gustavo-rebelo/Portifolio-Gustavo
 
 ## O que estou aprendendo
 Atualmente, estou aprendendo **Flutter** e como aprimorar minhas habilidades em **desenvolvimento**.
