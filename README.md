@@ -24,8 +24,8 @@ Sou graduando do curso de Análise e Desenvolvimento de Sistemas pela Unisinos e
 </div>
 
 ## Projetos em destaque
-- [Nike App Prototype](link_do_projeto) - Um protótipo de aplicativo mobile que simula a experiência do usuário da Nike.
-- [Site Divisórias Ribeiro](link_do_projeto) - Um site moderno, construído com HTML, CSS e JavaScript.
+- [Valorant Agent Finder]([link_do_projeto](https://github.com/gustavo-rebelo/Valorant)) - Um protótipo de aplicativo mobile que simula a experiência do usuário da Nike.
+- [Página Web/Portifólio]([link_do_projeto](https://github.com/gustavo-rebelo/Portifolio-Gustavo)) - Um site moderno, construído com HTML, CSS e JavaScript.
 
 ## O que estou aprendendo
 Atualmente, estou aprendendo **Flutter** e como aprimorar minhas habilidades em **desenvolvimento**.
