@@ -1,8 +1,11 @@
-## Olá, sou Gustavo Rebelo, desenvolvedor Front-End!👋
-Sou graduando do curso de Análise e desenvolvimento de sistemas pela Unisinos e apaixonado por tecnologia.
+## Olá, sou Gustavo Rebelo!👋
 
-<br/>[![Linkdedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-rebelo-479108179/)
-[![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+Sou graduando do curso de Análise e Desenvolvimento de Sistemas pela Unisinos e sou apaixonado por tecnologia. Atualmente, estou focando no desenvolvimento mobile e adoro trabalhar em projetos desafiadores.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-rebelo-479108179/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavorebelo_?igsh=b29rM2lrZjhjMGtm&utm_source=qr)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-rebelo&show_icons=true&theme=dracula)
@@ -14,4 +17,18 @@ Sou graduando do curso de Análise e desenvolvimento de sistemas pela Unisinos e
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" allign="center"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" allign="center"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" allign="center"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" allign="center"/>
+    <img src="https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" allign="center"/>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" allign="center"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" allign="center"/>
 </div>
+
+## Projetos em destaque
+- [Nike App Prototype](link_do_projeto) - Um protótipo de aplicativo mobile que simula a experiência do usuário da Nike.
+- [Site Divisórias Ribeiro](link_do_projeto) - Um site moderno, construído com HTML, CSS e JavaScript.
+
+## O que estou aprendendo
+Atualmente, estou aprendendo **Flutter** e como aprimorar minhas habilidades em **desenvolvimento**.
+
+## Vamos nos conectar!
+Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou sempre aberto a novas oportunidades!
