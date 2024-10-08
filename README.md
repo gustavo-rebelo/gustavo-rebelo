@@ -31,4 +31,4 @@ Sou graduando do curso de Análise e Desenvolvimento de Sistemas pela Unisinos e
 Atualmente, estou aprendendo **Flutter** e como aprimorar minhas habilidades em **desenvolvimento**.
 
 ## Vamos nos conectar!
-Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou sempre aberto a novas oportunidades!
+Sinta-se à vontade para entrar em contato ou colaborar em projetos!
