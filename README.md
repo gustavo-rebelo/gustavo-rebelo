@@ -33,16 +33,9 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** pela **Unisinos** e 
 
 ---
 
-## 📂 Projetos em Destaque
-
-- [Valorant Agent Finder](https://github.com/gustavo-rebelo/Valorant) – Aplicação para busca e informações sobre agentes do jogo Valorant.  
-- [Portfólio Web](https://github.com/gustavo-rebelo/Portifolio-Gustavo) – Meu site pessoal com meus projetos e experiências.
-
----
-
 ## 🎯 O que estou aprendendo
 
-No momento, estou aprofundando meus conhecimentos em **Flutter** para desenvolvimento mobile e aprimorando minhas habilidades em **arquitetura de software** e **melhores práticas de desenvolvimento**.
+No momento, estou aprofundando meus conhecimentos em **React Native** para desenvolvimento mobile e aprimorando minhas habilidades em **arquitetura de software** e **melhores práticas de desenvolvimento**.
 
 ---
 
